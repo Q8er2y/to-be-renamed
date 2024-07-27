@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-29T11:40:45.055Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15" etag="qZbCytr3z7fiNtt1Nv_o" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15" version="24.7.5" pages="2">
   <diagram name="Page-1" id="s9i_fugD5oEYHVeArBS9">
     <mxGraphModel dx="1728" dy="1056" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -166,6 +166,23 @@
               <mxPoint x="590" y="392" />
             </Array>
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="K655trfNpadYl0hqCC47" name="Page-2">
+    <mxGraphModel dx="614" dy="990" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cuyIu7-lKaYsHIw2DtK4-1" value="Container" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="7" y="-77" width="525" height="461" as="geometry" />
+        </mxCell>
+        <mxCell id="cuyIu7-lKaYsHIw2DtK4-2" value="The Ancient’s tech tree" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="cuyIu7-lKaYsHIw2DtK4-1">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cuyIu7-lKaYsHIw2DtK4-3" value="So basically there is going to be a special Red/yellow/white crystal that can “store matter” matter is sth like mana in those magic games so the matter can be used to “forge” anything and I mean VERYTHING. Need some power for your drill? No problem. Gotta recharge your unit thats out of ammo but u don’t have enough steel to make some? Matter saves the day. And so the sharded is going to fight the ancients that use the planet to recharge, refuel their ships while building a so called “interstellar gate” which is a technology that uses energy and matter make artificial gravity field to redirect and stabilise the ships that fly at big speeds. This tech can be used to travel between planets, galaxies. This requires the whole planet to be filled with production to even maintain the gate. Building the gate requires over 500 t7 ships and 5 outposts orbiting the planet to even maintain the ships, gate.&lt;div&gt;The planet has many asteroids (5 to be exact).&lt;/div&gt;&lt;div&gt;Those can be used to either spy the bases with telescopes,&lt;/div&gt;&lt;div&gt;Mine resources, transport resources, or gain energy with solar panels.&lt;/div&gt;&lt;div&gt;One of the asteroids matches the rotation speed ot the planet so 2 facilities can be build on both the planet and the asteroid to make a space lift&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="cuyIu7-lKaYsHIw2DtK4-1">
+          <mxGeometry x="132" y="170" width="391" height="291" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
